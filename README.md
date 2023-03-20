@@ -1,2 +1,0 @@
-# ljb
-My first repository
